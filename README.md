@@ -75,7 +75,7 @@ That's the useful bug report.
 These three are the ones I use most. The full **Agent Ops Kit** has 8
 sub-agents, 6 hooks, 10 slash commands, 5 `CLAUDE.md` starters for different
 stacks, and a playbook on context budgeting — $19, 14-day refund, at
-[agent-ops-kit.com](https://agent-ops-kit.com).
+[agent-ops-kit.com](https://agent-ops-kit.com/?utm_source=github&utm_medium=readme&utm_campaign=aok-launch48&utm_content=starter-repo)..
 
 Eight sub-agents, not forty. Each one has a job it does and a job it refuses.
 It's the same work as what's in this repo, so if these three aren't useful to
