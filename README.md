@@ -21,7 +21,7 @@ Works with Claude Code and other agentic coding tools.
 ## Install
 
 ```bash
-git clone https://github.com/USER/agent-ops-starter
+git clone https://github.com/agent-ops-kit/agent-ops-starter
 cd your-repo
 mkdir -p .claude/agents .claude/hooks
 cp ../agent-ops-starter/agents/*.md .claude/agents/
